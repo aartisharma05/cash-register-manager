@@ -1,0 +1,30 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  height:fit-content;
+  padding:10px;
+  margin:194px;
+  border-radius: 2px;
+  border-color: black;
+  text-align: center;
+  background-color: rgb(23, 100, 100);
+
+}
+#next,#check{
+  background-color: aqua ;
+}
+
+table, tr,td{
+  padding:10px;
+  border:2px;
+  border-radius: 4px;
+  background-color: white;
+  text-align: center;
+  margin-left: 206px;
+}
+
+
+#error-msg{
+  color:red;
+}
